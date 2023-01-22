@@ -1,0 +1,18 @@
+#45 * 3 = 555 , 56+9 , 56/6 = 4
+operator=(input("chuno:-+*/"))
+first_no=int(input("first no"))
+second_no=int(input("second no"))
+if operator=="*" and first_no==45 and second_no==3:
+    print("555")
+elif operator=="*":
+    print(first_no*second_no)
+if operator=="+" and first_no==56 and second_no==9:
+    print("cheating karoge")
+elif operator=="+":
+    print(first_no+second_no)
+if operator=="/" and  first_no==56 and second_no==6:
+    print("4")
+elif operator=="/":
+    print(first_no/second_no)
+@mayankmoonkumar
+ 
